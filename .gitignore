@@ -1,0 +1,5 @@
+bootstrap
+.gdb*
+.vscode
+startdocker.sh
+peda-session*
